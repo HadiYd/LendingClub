@@ -4,7 +4,7 @@
 
  
 ## Company Information:
-Lending Club is a  peer to peer lending company based in , headquartered in San Francisco, California, in which investors provide funds for potential borrowers and investors earn a profit depending on the risk they take (the borrowers credit score). Lending Club provides the "bridge" between investors and borrowers. LendingClub is the world's largest peer-to-peer lending platform. For more basic information about the company please check out: <a src="https://en.wikipedia.org/wiki/Lending_Club"> Lending Club Information </a>
+Lending Club is a  peer to peer lending company based in , headquartered in San Francisco, California, in which investors provide funds for potential borrowers and investors earn a profit depending on the risk they take (the borrowers credit score). Lending Club provides the "bridge" between investors and borrowers. LendingClub is the world's largest peer-to-peer lending platform. For more basic information about the company please check out: <a href="https://en.wikipedia.org/wiki/Lending_Club"> Lending Club Information </a>
 
 <img src="http://echeck.org/wp-content/uploads/2016/12/Showing-how-the-lending-club-works-and-makes-money-1.png"><br><br>
 
@@ -39,5 +39,5 @@ V. Evaluating Model Performance<br>
 
 
 ## References:
-1) <a src="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"> Python for Data Science and Machine Learning Bootcamp </a> by  Jose Portilla <br> 
-2) <a src="https://www.kaggle.com/janiobachmann/lending-club-risk-analysis-and-metrics"> Lending Club || Risk Analysis and Metrics</a> by Janio Martinez <br>
+1) <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"> Python for Data Science and Machine Learning Bootcamp </a> by  Jose Portilla <br> 
+2) <a href="https://www.kaggle.com/janiobachmann/lending-club-risk-analysis-and-metrics"> Lending Club || Risk Analysis and Metrics</a> by Janio Martinez <br>
